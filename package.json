@@ -1,0 +1,34 @@
+{
+  "name": "stylematch-mam-assur",
+  "version": "1.0.0",
+  "description": "Plateforme d'assurance intelligente avec IA pour MAM ASSUR ET MULTI SERVICES",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 3000",
+    "deploy": "gh-pages -d .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VOTRE-USERNAME/stylematch-mam-assur.git"
+  },
+  "keywords": [
+    "assurance",
+    "côte-d'ivoire",
+    "insurance",
+    "AI",
+    "react",
+    "fintech",
+    "mobile-money"
+  ],
+  "author": "MAM ASSUR ET MULTI SERVICES - TOURE Mariam",
+  "license": "PROPRIETARY",
+  "bugs": {
+    "url": "https://github.com/VOTRE-USERNAME/stylematch-mam-assur/issues"
+  },
+  "homepage": "https://VOTRE-USERNAME.github.io/stylematch-mam-assur",
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "http-server": "^14.1.1"
+  }
+}
